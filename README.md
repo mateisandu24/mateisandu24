@@ -1,4 +1,3 @@
-# Hi there, I'm Matei Sandu 👋
 
 I am a driven Software Engineering student blending technical ambition with a strong background in project management, digital creativity, and leadership. Currently in my second year at **CSIE** (Cybernetics, Statistics, and Economic Informatics - ASE Bucharest), I channel my adaptability and problem-solving abilities into building robust, scalable applications. 
 
