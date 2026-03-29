@@ -9,7 +9,7 @@ I am a second-year student at **CSIE**, blending technical ambition with a stron
   </a>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,tailwind,postgresql,linux,git,vscode,idea" alt="Frameworks & Tools" />
+    <img size-4 src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,tailwind,postgresql,linux,git,vscode,idea" alt="Frameworks & Tools" />
   </a>
 </p>
 
