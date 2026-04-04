@@ -18,10 +18,9 @@ I am a second-year student at **CSIE**, blending technical ambition with a stron
 ### 🔭 Featured Projects
 
 #### 🌐 Full-Stack & Web Development
-* **Holland Farming Lab:** Full-stack order management platform bridging clients and admins. Built with **Next.js 14, TypeScript, Prisma & PostgreSQL**. Features RBAC security via NextAuth, B2B/B2C portals, and an advanced admin B-Office.
 * **Sales Factory:** High-performance B2B distributor platform. Built with **React, Vite & Tailwind CSS**, featuring custom CSS animations, client-side localization, and automated Vercel CI/CD.
 * **Set&Glow:** E-commerce platform management. Optimized UX/UI, conversion rates, and legal compliance using **Wix Studio & JavaScript**.
-* **Personal Portfolio:** Modern showcase application for coding and music production, built with **Next.js**.
+* **Personal Portfolio Website:** Modern showcase application for coding and music production, built with **Next.js**.
 
 #### 🤖 AI, Data & Core CS
 * **Split (Adobe UXP Plugin):** Natural-language photo editor leveraging the **Google Gemini API** & **JavaScript** (Built for Adobe Innovate4AI Hackathon).
