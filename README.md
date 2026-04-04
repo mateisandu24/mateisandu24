@@ -1,45 +1,38 @@
+# Matei Sandu
 
-I am a second-year student at **CSIE**, blending technical ambition with a strong background in project management and digital creativity. I build robust applications, specializing in full-stack web development, database management, and core computer science concepts.
+I am a second-year student at **CSIE**, passionate about technology and solving problems through code. I enjoy building practical applications and I am in a continuous process of learning and exploring new technologies.
 
-### 🛠️ Tech Stack & Tools
+---
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,c,java,python,js,ts,bash" alt="Languages" />
-  </a>
-  <br><br>
-  <a href="https://skillicons.dev">
-    <img size-4 src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,tailwind,postgresql,linux,git,vscode,idea" alt="Frameworks & Tools" />
-  </a>
-</p>
+### 💻 Core Skills & Interests
+* **Primary Language:** Currently, I am most comfortable with **C++**, which I use to solidify my programming fundamentals.
+* **Databases:** I have a strong foundation in relational databases (especially **Oracle SQL**).
+* **Data Structures:** I am highly passionate about data structures, as I consider them essential for writing good, efficient software.
+* **Python:** I am capable of writing scripts and doing data modeling in Python, though I know I still have a lot to learn and explore within this ecosystem.
+
+### 🚀 Current Learning Path
+I am currently dedicating my time to expanding my knowledge in the following areas:
+* **AI/ML:** Exploring the core concepts of Artificial Intelligence and Machine Learning.
+* **.NET:** Learning the .NET framework for backend application development.
 
 ---
 
 ### 🔭 Featured Projects
 
-#### 🌐 Full-Stack & Web Development
-* **Sales Factory:** High-performance B2B distributor platform. Built with **React, Vite & Tailwind CSS**, featuring custom CSS animations, client-side localization, and automated Vercel CI/CD.
-* **Set&Glow:** E-commerce platform management. Optimized UX/UI, conversion rates, and legal compliance using **Wix Studio & JavaScript**.
-* **Personal Portfolio Website:** Modern showcase application for coding and music production, built with **Next.js**.
+#### 🌐 Web & Full-Stack
+* **Sales Factory:** B2B distributor platform built with **React, Vite & Tailwind CSS**. Features custom CSS animations and client-side localization.
+* **Set&Glow:** UX/UI optimization and administration for an e-commerce platform using **Wix Studio & JavaScript**.
+* **Personal Portfolio:** Showcase website for my coding and music production projects, developed with **Next.js**.
 
 #### 🤖 AI, Data & Core CS
-* **Split (Adobe UXP Plugin):** Natural-language photo editor leveraging the **Google Gemini API** & **JavaScript** (Built for Adobe Innovate4AI Hackathon).
-* **Sports Betting Analytics:** **Python** data scraping and statistical modeling script comparing calculated probabilities against bookmaker odds.
-* **Fake News Dynamics:** Modeled fake news spread using network theory, agent-based modeling, and **Python**.
-* **Oracle SQL Dormitory Management:** Relational database architecture built for student housing facilities.
-* **Low-Level Development:** Built a **Bash** user management system for Linux and a Bubble Sort implementation in **x86 Assembly (MASM)**.
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateisandu24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Matei's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateisandu24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</p>
+* **Split (Adobe UXP Plugin):** Natural-language photo editor using the **Google Gemini API** & **JavaScript** (Developed for the Adobe Innovate4AI Hackathon).
+* **Sports Betting Analytics:** **Python** script for data scraping and statistical modeling of sports probabilities against bookmaker odds.
+* **Fake News Dynamics:** Modeled the spread of fake news using network theory and agent-based modeling in **Python**.
+* **Dormitory Management (Oracle SQL):** Relational database architecture designed for student housing facilities.
+* **Low-Level Development:** User management system in **Bash** (Linux) and a Bubble Sort implementation in **x86 Assembly (MASM)**.
 
 ---
 
 ### 📫 Let's Connect
 * **LinkedIn:** [Matei Sandu](https://www.linkedin.com/in/matei-sandu-248ab531a)
-* **Email:** [mateysandu@gmail.com](mailto:mateysandu@gmail.com)
+* **Email:** mateysandu@gmail.com
