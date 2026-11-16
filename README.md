@@ -11,7 +11,7 @@ Right now I'm looking for a **junior role** (backend, data or AI) in Bucharest (
 **JobFit, my bachelor's thesis.** You upload a CV and it tells you how well it matches IT roles in Romania. Under the hood it's .NET 10 + PostgreSQL (pgvector), an RDF graph of ~900 job postings I scraped from LinkedIn, eJobs and BestJobs, and local LLMs through Ollama.
 The part I'm most proud of: the model only *extracts* skills, a normal deterministic layer does the scoring. And I cut one analysis from **1032 s to 187 s** on a 6 GB GPU just by making the prompts shorter. Boring fix, big result.
 
-**Real work, too.** Since Nov 2025 I work part-time (now freelance) for an e-commerce company: I built their site ([salesfactory.ro](https://salesfactory.ro), Vite + React) and I run their eMAG store. In 12 months the store went from ~12 to 190+ offers and from under 1,000 to 13,000+ RON in sales. It's not "pure coding", but it taught me what a user and a deadline look like.
+**Real work, too.** From Nov 2025 to Jun 2026 I worked part-time for an e-commerce company, and I've kept helping them as a freelancer since. I built their site ([salesfactory.ro](https://salesfactory.ro), Vite + React) and ran their eMAG store. In 12 months the store went from ~12 to 190+ offers and from under 1,000 to 13,000+ RON in sales. It's not "pure coding", but it taught me what a user and a deadline look like.
 
 ---
 
@@ -25,8 +25,10 @@ But I don't paste and pray. I read what it gives me, I test it, and I keep learn
 
 ### In numbers
 
-![Matei's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateisandu24&show_icons=true&include_all_commits=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateisandu24&layout=compact&hide_border=true)
+![Matei's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=mateisandu24&show_icons=true&include_all_commits=true&hide_border=true)
+![Top languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=mateisandu24&layout=compact&hide_border=true)
+
+![Contributions](https://ghchart.rshah.org/mateisandu24)
 
 Public commits so far (9 repos, ~130 commits):
 
