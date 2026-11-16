@@ -56,6 +56,7 @@ Honest note: some repos have few commits because I used to upload work in one go
 - Go deeper on backend in .NET: cleaner architecture, more tests, deployment
 - Work inside a real team: code reviews, tickets, shipping something other people depend on
 - Get better at explaining what I build in plain words
+- I'm curious about system design: things like optimistic concurrency, and caching with Redis so an app doesn't hit the database with too many queries. I haven't built these in production yet, but I understand why they matter and I'm happy to learn them properly.
 
 ---
 
