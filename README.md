@@ -25,13 +25,12 @@ But I don't paste and pray. I read what it gives me, I test it, and I keep learn
 
 ### In numbers
 
-![Matei's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=mateisandu24&show_icons=true&include_all_commits=true&hide_border=true)
+In 2026 so far I have **340+ contributions** on GitHub (public and private repos together, as GitHub counts them).
 ![Top languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=mateisandu24&layout=compact&hide_border=true)
 
 ![Contributions](https://ghchart.rshah.org/mateisandu24)
 
-Public commits so far (9 repos, ~130 commits):
-
+My public repos, with their commit counts (private repos are not in this table):
 | Repo | What it is | Commits |
 |---|---|---|
 | `SalesManagementSystem` | C# / .NET desktop e-commerce app (Dapper, SQL Server) | 36 |
